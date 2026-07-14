@@ -1,0 +1,19 @@
+internal/session/setup_helpers.go
+  s_aaaabb7c07a85b::t_d8037eb20868b2 213-221
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "15de5d6f0c7ffa0bb10b31a18972222d4b0771b9",
+  "prompts": {},
+  "sessions": {
+    "s_aaaabb7c07a85b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6f895e18-77e3-48f9-977b-246ed41f0d2e",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Payton Burr <pburr@sumofiber.com>"
+    }
+  }
+}
