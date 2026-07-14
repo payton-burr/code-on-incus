@@ -1,0 +1,21 @@
+internal/session/setup_managed_settings_test.go
+  s_aaaabb7c07a85b::t_31bc0e7079144a 1-80
+internal/session/setup_helpers.go
+  s_aaaabb7c07a85b::t_c860fa5799c0c3 213-221
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "2759013c0b1e3e3956728175ce3647325d54a0c5",
+  "prompts": {},
+  "sessions": {
+    "s_aaaabb7c07a85b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6f895e18-77e3-48f9-977b-246ed41f0d2e",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Payton Burr <pburr@sumofiber.com>"
+    }
+  }
+}
