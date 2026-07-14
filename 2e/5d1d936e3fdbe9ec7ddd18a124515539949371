@@ -1,0 +1,39 @@
+internal/session/setup_managed_settings_integration_test.go
+  s_a229c9dbd8ec03::t_68b1aaaf6bc730 1-55
+internal/container/interfaces.go
+  s_a229c9dbd8ec03::t_69d9c75674d1c4 46
+internal/container/commands.go
+  s_a229c9dbd8ec03::t_eb8810a13c8ebf 290-309
+internal/container/manager.go
+  s_a229c9dbd8ec03::t_2b9dc2b146b125 813-815,817,823-859,862-863,866-867,869
+internal/session/setup_managed_settings_test.go
+  s_a229c9dbd8ec03::t_9fad24e17ed622 11-22,25-29,35-39,43,47,51-56,61-62,64-66,68-69,71-72,74-76,79,87-105
+  s_a229c9dbd8ec03::t_737c9e42185f10 73,77-78
+  s_aaaabb7c07a85b::t_31bc0e7079144a 1-10,23-24,30-34,40-42,44-46,48-50,57-60,63,67,70,80-86,106-107
+internal/session/setup_helpers.go
+  s_a229c9dbd8ec03::t_78bbfd0f96ea81 203,211-217
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "2e5d1d936e3fdbe9ec7ddd18a124515539949371",
+  "prompts": {},
+  "sessions": {
+    "s_a229c9dbd8ec03": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6d306838-7760-481e-8df8-dbe9f75a44cd",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    },
+    "s_aaaabb7c07a85b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6f895e18-77e3-48f9-977b-246ed41f0d2e",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Payton Burr <pburr@sumofiber.com>"
+    }
+  }
+}
